@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="OzGWo30L=wlIhA3$w-3D" x="0" y="0"/><block type="gamesetbackgroundcolor" id="W8e7512EH3NZgZG]bHCO" disabled="true" x="10" y="230"><value name="color"><shadow type="colorindexpicker" id="O,1AYP@bBqN7dc(jMQ3k" disabled="true"><field name="index">0</field></shadow></value></block></xml>
